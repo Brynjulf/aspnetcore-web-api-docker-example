@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c/gdB0tJzmm2v58ymT97cE8Nhfmrjn2uZstwUPfYIJQ=",
+  "Source": "ASPNETCoreWebAPIDockerExample",
+  "BasePath": "_content/ASPNETCoreWebAPIDockerExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
